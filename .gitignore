@@ -1,3 +1,6 @@
 .DS_Store
 available_packages.xml
 /Profiles/Custom.xml
+
+# macOS system files
+._*
